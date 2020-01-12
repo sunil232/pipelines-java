@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sunil0199/myfirstdevopsproject/_apis/build/status/sunil232.pipelines-java?branchName=master)](https://dev.azure.com/sunil0199/myfirstdevopsproject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
